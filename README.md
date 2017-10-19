@@ -7,6 +7,8 @@ as many additional buttons of their choice as they wish.
 
 Side note: Popcorn should have been in the original array. Prioritize relevant food gifs always!
 
+View the live site at: catslug.github.io/giphy-app
+
 Technologies used: 
   * HTML
   * CSS
